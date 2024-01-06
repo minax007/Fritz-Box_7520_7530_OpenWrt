@@ -1,3 +1,4 @@
+![grafik](https://github.com/minax007/Fritz-Box_7520_7530_OpenWrt/assets/67478561/e752efd1-afbc-48fa-9f0e-d3d714785501)
 # Fritz!Box 7520/7530 OpenWrt
 [![release](https://img.shields.io/github/v/release/minax007/Fritz-Box_7520_7530_OpenWrt.svg)](https://github.com/minax007/Fritz-Box_7520_7530_OpenWrt/releases)
 
