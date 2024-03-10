@@ -1,5 +1,6 @@
 ![grafik](https://github.com/minax007/Fritz-Box_7520_7530_OpenWrt/assets/67478561/e752efd1-afbc-48fa-9f0e-d3d714785501)
 # OpenWrt for Fritz!Box 7520/7530
+[![Build OpenWrt](https://github.com/minax007/Fritz-Box_7520_7530_OpenWrt/actions/workflows/build-snapshot.yml/badge.svg)](https://github.com/minax007/Fritz-Box_7520_7530_OpenWrt/actions/workflows/build-snapshot.yml)
 [![release](https://img.shields.io/github/v/release/minax007/Fritz-Box_7520_7530_OpenWrt.svg)](https://github.com/minax007/Fritz-Box_7520_7530_OpenWrt/releases)
 
 These GitHub actions are for building OpenWrt based on snapshot or official releases using imagebuilder.
